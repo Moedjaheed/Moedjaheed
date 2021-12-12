@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moedjaheed
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C and C++ language
-- 📫 How to reach me on @ridhomjhd in instagram, feel free to hit my dm!
+- 📫@ridhomjhd on instagram, feel free to hit my dm!
 
 <!---
 Moedjaheed/Moedjaheed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

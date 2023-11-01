@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moedjaheed
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Machine Learning and Programming
 - 🌱 I’m currently learning C, C++, and Python language
 
 <!---
